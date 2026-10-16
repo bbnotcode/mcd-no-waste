@@ -1,0 +1,14 @@
+{
+  "coupons": {
+    "code": 200,
+    "data": {
+      "currentPage": 1, "totalPages": 1, "pageSize": 200, "totalCount": 3,
+      "coupons": [
+        {"id": "synthetic-breakfast", "title": "演示早餐券（虚构）", "tradeEndDate": "2026-10-16", "tradeEndDateTime": "2026-10-16 10:29:59", "datetimeText": "仅早餐时段，到店适用", "enable": 1, "tags": [{"label": "到店专用"}], "discountInfo": {"discountDesc": "用券价格", "discountValue": "9.9"}},
+        {"id": "synthetic-soon", "title": "演示小食券（虚构）", "tradeEndDate": "2026-10-18", "datetimeText": "截止日2026-10-18，具体时间请查看详情", "discountInfo": {"discountDesc": "用券价格", "discountValue": "8.8"}},
+        {"id": "synthetic-unknown", "title": "演示待确认券（虚构）", "datetimeText": "以券详情为准"}
+      ]
+    }
+  },
+  "account": {"code": 200, "data": {"availablePoint": "900", "currentMouthExpirePoint": "100", "nextMouthExpirePoint": "200"}}
+}
