@@ -52,6 +52,7 @@ python3 -m unittest discover -s tests -v
 - 分析器包含时间、分页完整性、接口失败和隐私字段回归测试。
 - 尚未验证其他客户端的完整导入流程；门店核价和兑换商品筛选属于按需对话流程，本次未执行。未执行领券、兑换、抽奖或订单操作。
 - 参赛仓库：[bbnotcode/mcd-no-waste](https://github.com/bbnotcode/mcd-no-waste)。未使用 WorkBuddy，不申请该工具的使用专项奖励。
+- 2026-10-16，已提交[官方报名 Issue #783](https://github.com/M-China/mcd-developer-innovation-challenge/issues/783)，报名受理结果以官方回执为准。
 
 ## 参赛材料
 
